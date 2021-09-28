@@ -1,0 +1,103 @@
+.head1{
+position: relative;
+top: -32px;
+left:74px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+
+letter-spacing: 0.2px;
+
+color: #000000;
+
+}
+.head2{
+position: relative;
+top: -11px;
+left:102px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+color: #000000;
+}
+.head3{
+/*     
+position: absolute;
+width: 214px;
+height: 30px;
+left: 164px;
+top: 148px; */
+width :214px;
+height :
+30px;
+top :
+148px;
+left :
+164px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+background-color: red;
+color: #000000;
+
+}
+.line{
+    position: relative;
+    width: 108px;
+    height: 0px;
+    left: 204px;
+    top: -7px;
+    border: 1px solid #b5acac;
+    transform: rotate(90deg);
+}
+.sub-div2{
+    
+    position: relative;
+    left: 287px;
+    top: -62px;
+}
+.radio2{
+    position: relative;
+    left:80px
+}
+.radio3{
+    position: relative;
+    left:80px;
+    top:7px
+}
+.access1{
+    position: relative;
+    left:85px;
+    top:0px
+} 
+.access3{
+    position: relative;
+    left:85px;
+    top:7px
+} 
+.sub-topic{
+    position: relative;
+    top: 15px;
+    font-size: 8px;
+    left: 6px;
+}
+
+.sub-topic1{
+    position: relative;
+    top: 25px;
+    font-size: 8px;
+    left: -47px;
+
+}

@@ -1,0 +1,160 @@
+.permit {
+  position: absolute;
+  width: 128px;
+  height: 36px;
+  left: 352px;
+  top: 110px;
+}
+.span {
+  position: absolute;
+  left: 31.25%;
+  right: -1.56%;
+  top: 22.22%;
+  bottom: 22.22%;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+
+  display: flex;
+  align-items: center;
+
+  /* secondary 3 */
+
+  color: #673ab7;
+}
+
+.table-view {
+  position: absolute;
+  width: 158px;
+  height: 36px;
+  left: 518px;
+  top: 110px;
+  /* background-color: darkgray; */
+}
+.span2 {
+  position: absolute;
+  left: 22.78%;
+  right: -9.04%;
+  top: 22.22%;
+  bottom: 22.22%;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+
+  display: flex;
+  align-items: center;
+
+  /* Gray 1 */
+
+  color: #333333;
+}
+.last {
+  position: absolute;
+  width: 155px;
+  height: 20px;
+  left: 1300px;
+  top: 118px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.sync {
+  position: absolute;
+  left: 1259px;
+  top: 118px;
+
+  /* background: rgba(0, 0, 0, 0.54); */
+  transform: rotate(-90deg);
+}
+.Kishore {
+  position: absolute;
+  width: 56px;
+  height: 19px;
+  left: 1300px;
+  top: 35px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.2px;
+
+  color: #000000;
+}
+.oval {
+  position: absolute;
+  
+  left: 1259px;
+  
+  top: 28px;
+  
+
+  width: 30px;
+  height: 30px;
+  /* Top :24px; */
+  /* Left :1634px; */
+
+}
+.help {
+  position: absolute;
+  width: 22px;
+  height: 25.75px;
+  top: 30px;
+  left: 1399px;
+}
+.notification{
+    position: absolute;
+
+right: 16.67%;
+top: 30px;
+left: 1362px;
+
+/* Black — Inactive */
+
+
+
+}
+
+.line33{
+  position: absolute;
+  width: 30px;
+  height: 0px;
+  left: 490px;
+  top: 127px;
+  border: 1px solid #CFD3DA;
+  transform: rotate(90deg);
+}
+.purple-line{
+  
+  position: absolute;
+  width: 140px;
+  height: 5px;
+  left: 2px;
+  top: 43px;
+  background: #673AB7;
+  border-radius: 10px 10px 0px 0px;
+
+}

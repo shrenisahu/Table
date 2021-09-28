@@ -1,0 +1,117 @@
+.Projects{
+    /* background-color: bisque; */
+
+    position: relative;
+width: 151.47px;
+height: 20.36px;
+/* left:10; */
+bottom: 10px;
+right: -72px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* Gray 3 */
+
+color: #828282;
+}
+
+.div1{
+    /* display: flex/; */
+    justify-content: center;
+    align-items: center;
+    width :
+310px;
+height :
+58px;
+top :
+74px;
+left :
+10px;
+
+/* background-color: rgb(70, 54, 54); */
+}
+
+.dashboard{
+    position: absolute;
+width: 36px;
+height: 36px;
+/* left: calc(50% - 36px/2 - 117px); */
+/* top: calc(50% - 36px/2); */
+
+}
+.div2{
+    display: flex;
+    position: relative;
+    width :
+209.47px;
+height :
+36px;
+top :
+11px;
+left :
+20px;
+/* background-color: cornflowerblue; */
+
+}
+.Projects2{
+    position: relative;
+width: 162px;
+height: 21px;
+/* left: calc(50% - 162px/2 + 4px); */
+/* top: calc(50% - 21px/2 + 0.5px); */
+right: -72px;
+bottom: 10px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* Gray 3 */
+
+color: #828282;
+
+}
+.Projects3{
+    position: relative;
+width: 126px;
+height: 21px;
+right: -72px;
+bottom: 10px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+
+/* secondary 3 */
+
+/* color: #673AB7; */
+
+}
+
+
+
+/* .bgColor{
+    background-color: #E1D8F1;
+} */

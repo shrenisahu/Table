@@ -1,0 +1,54 @@
+.toggle{
+    
+position: absolute;
+width: 40px;
+height: 24.31px;
+left: 903px;
+top: 13px;
+/* background-color: aqua; */
+/* borde */
+
+}
+
+.Add_icon{
+    position: relative;
+    top: 10px;
+    right:950px;
+}
+.role1{
+    position: absolute;
+    left:90px;
+    top: 16px;
+}
+.pos1{
+    position: absolute;
+    left:312px;
+    top: 16px;
+}
+.pos2{
+    position: absolute;
+    left:536px;
+    top: 6px;
+    font-size: 10px;
+}
+.pos3{
+    position: absolute;
+    left:622px;
+    top: 16px;
+}
+
+.btnGrey {
+   
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    /* left: 291px;
+     */
+     left:31%;
+  
+    background: rgba(230, 224, 224, 0.3);
+  
+    border: 1px solid #d6d6d6;
+    box-sizing: border-box;
+    border-radius: 20px;
+  }

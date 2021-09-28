@@ -1,0 +1,75 @@
+
+.tb2 {
+    position: absolute;
+    width: 1000px;
+  
+    left: 420px;
+    top: 362px;
+  }
+
+
+
+.sub-control{
+    
+position: absolute;
+left:455px;
+top:275px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+display: flex;
+align-items: center;
+
+/* secondary 3 */
+
+color: #673AB7;
+
+}
+.sub-control1{
+    
+    position: absolute;
+    left:600px;
+    top:275px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+    
+    display: flex;
+    align-items: center;
+    
+    /* secondary 3 */
+    
+    color: #673AB7;
+    
+    }
+    .hr1{
+        position: absolute;
+width: 140px;
+height: 5px;
+left: 422px;
+top: 322px;
+
+background: #673AB7;
+border-radius: 10px 10px 0px 0px;
+    }
+    .hr2{
+        
+position: absolute;
+width: 900px;
+height: 0px;
+left: 428px;
+top: 327px;
+
+border: 1px solid rgba(207, 211, 218, 0.5);
+transform: rotate(0.04deg);
+
+    }
